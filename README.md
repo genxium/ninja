@@ -10,6 +10,7 @@ The goal is to scale a tower to find the evil plans without getting spotted.
 Levels were designed to offer obvious routes, as well as more difficult alternate routes, and a timer to allow speed running.
 
 ## Building
+Please install [nodejs v11+](https://nodejs.org/en/) and [advancecomp v2.1](https://github.com/amadvance/advancecomp) to `$PATH` manually as prerequisites. To install `advancecomp` just decompress [this](https://github.com/amadvance/advancecomp/releases/tag/v2.1) and add it to `$PATH`.
 
 ```sh
 make update
